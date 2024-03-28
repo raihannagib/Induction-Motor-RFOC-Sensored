@@ -23,8 +23,10 @@ Below is block diagram of the IP controller.
 
 ![image](https://github.com/raihannagib/Induction-Motor-RFOC-Sensored/assets/102897878/6bfff749-dafc-4d7d-9fb8-d9a94ed1d870)
 
+I use IP controller because it can provide better performance than PI controller with low peak overshoot.
+
 ## Rotor Field Oriented Control Algorithm
-The following is a simple block diagram of the RFOC controller.
+Here's the block diagram of the RFOC controller.
 
 ![image](https://github.com/raihannagib/Induction-Motor-RFOC-Sensored/assets/102897878/8df33559-27d5-48f3-a4e6-a28b3eb37232)
 
