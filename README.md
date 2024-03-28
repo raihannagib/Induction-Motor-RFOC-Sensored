@@ -34,6 +34,7 @@ Here's the block diagram of the RFOC controller.
 To perform the algorithm, we need clarke-park transform. Clarke transform used to convert three-phase electrical signal (abc) in stationary reference frame into a two-phase electrical signal (alpha-beta) in stationary reference frame. And than, park transform used to convert two-phase electrical signal (alpha-beta) in stationary reference frame into a two-phase electrical signal (d-q) in rotating reference frame.
 
 Here's the formula of clarke and park transform, including the inverse clarke and park transform.
+
 ![image](https://github.com/raihannagib/Induction-Motor-RFOC-Sensored/assets/102897878/ad0508c2-4a12-4f3c-a3f1-cf44f471b7cd)
 
 ![image](https://github.com/raihannagib/Induction-Motor-RFOC-Sensored/assets/102897878/e519dc75-a286-4f08-993c-2f896451048c)
