@@ -20,6 +20,7 @@ Here's the quick electrical and mechanical model of induction motor in stationar
 
 ## Integral-Proportional Algorithm
 Below is block diagram of the IP controller.
+
 ![image](https://github.com/raihannagib/Induction-Motor-RFOC-Sensored/assets/102897878/6bfff749-dafc-4d7d-9fb8-d9a94ed1d870)
 
 ## Rotor Field Oriented Control Algorithm
